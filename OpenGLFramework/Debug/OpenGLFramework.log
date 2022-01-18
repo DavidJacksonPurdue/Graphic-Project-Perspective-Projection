@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\David Jackson\Downloads\Asgn1-VS2012\Assignment1Framework\Assignment1Framework\OpenGLFramework\OpenGLFramework\main.cpp(10,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\David Jackson\Downloads\Asgn1-VS2012\Assignment1Framework\Assignment1Framework\OpenGLFramework\OpenGLFramework\main.cpp(143,30): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\David Jackson\Downloads\Asgn1-VS2012\Assignment1Framework\Assignment1Framework\OpenGLFramework\OpenGLFramework\main.cpp(146,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\David Jackson\Downloads\Asgn1-VS2012\Assignment1Framework\Assignment1Framework\OpenGLFramework\OpenGLFramework\main.cpp(155,30): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\David Jackson\Downloads\Asgn1-VS2012\Assignment1Framework\Assignment1Framework\OpenGLFramework\OpenGLFramework\main.cpp(158,19): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\David Jackson\Downloads\Asgn1-VS2012\Assignment1Framework\Assignment1Framework\OpenGLFramework\OpenGLFramework\main.cpp(176,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\David Jackson\Downloads\Asgn1-VS2012\Assignment1Framework\Assignment1Framework\OpenGLFramework\OpenGLFramework\main.cpp(176,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\David Jackson\Downloads\Asgn1-VS2012\Assignment1Framework\Assignment1Framework\OpenGLFramework\OpenGLFramework\main.cpp(176,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\David Jackson\Downloads\Asgn1-VS2012\Assignment1Framework\Assignment1Framework\OpenGLFramework\OpenGLFramework\main.cpp(235,15): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\David Jackson\Downloads\Asgn1-VS2012\Assignment1Framework\Assignment1Framework\OpenGLFramework\OpenGLFramework\main.cpp(241,15): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\David Jackson\Downloads\Asgn1-VS2012\Assignment1Framework\Assignment1Framework\OpenGLFramework\OpenGLFramework\main.cpp(302,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\David Jackson\Downloads\Asgn1-VS2012\Assignment1Framework\Assignment1Framework\OpenGLFramework\OpenGLFramework\main.cpp(302,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  OpenGLFramework.vcxproj -> C:\Users\David Jackson\Downloads\Asgn1-VS2012\Assignment1Framework\Assignment1Framework\OpenGLFramework\Debug\OpenGLFramework.exe
